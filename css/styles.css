@@ -36,3 +36,15 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.fieldset{
+    display: block;
+    background-color: white;
+    border-style: ridge;
+}
+
+.legend{
+    background-color: orange;
+    margin: 0px auto;
+    color:floralwhite;
+}
